@@ -1,0 +1,6 @@
+C:\Users\darkh\Desktop\Dev_CS\C_Shap\ExceptionLogger\ExceptionLogger\obj\Debug\ExceptionLogger.csprojResolveAssemblyReference.cache
+C:\Users\darkh\Desktop\Dev_CS\C_Shap\ExceptionLogger\ExceptionLogger\obj\Debug\ExceptionLogger.csproj.CoreCompileInputs.cache
+C:\Users\darkh\Desktop\Dev_CS\C_Shap\ExceptionLogger\ExceptionLogger\bin\Debug\ExceptionLogger.dll
+C:\Users\darkh\Desktop\Dev_CS\C_Shap\ExceptionLogger\ExceptionLogger\bin\Debug\ExceptionLogger.pdb
+C:\Users\darkh\Desktop\Dev_CS\C_Shap\ExceptionLogger\ExceptionLogger\obj\Debug\ExceptionLogger.dll
+C:\Users\darkh\Desktop\Dev_CS\C_Shap\ExceptionLogger\ExceptionLogger\obj\Debug\ExceptionLogger.pdb
